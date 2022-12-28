@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="169861a587c825107653fd57dabb35bd" sys_domain="global" table="x_492360_mynavis_0_helpdesk" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-28 11:33:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>169861a587c825107653fd57dabb35c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_492360_mynavis_0_helpdesk" name="x_492360_mynavis_0_helpdesk" sys_domain="global" view="Default view">169861a587c825107653fd57dabb35bd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_492360_mynavis_0_helpdesk" sys_domain="global" view="Default view">d2a7256587c825107653fd57dabb3501</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-28 11:33:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-28 11:33:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de98a1a587c825107653fd57dabb3530</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_492360_mynavis_0_helpdesk" name="x_492360_mynavis_0_helpdesk" sys_domain="global" view="Default view">169861a587c825107653fd57dabb35bd</sys_ui_form>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_492360_mynavis_0_helpdesk" sys_domain="global" view="Default view">da9861a587c825107653fd57dabb35bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-28 11:33:16</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_492360_mynavis_0_helpdesk</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-28 11:33:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>169861a587c825107653fd57dabb35bd</sys_id>
+            <sys_name>x_492360_mynavis_0_helpdesk</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyNavistar" source="x_492360_mynavis_0">3cfa3ce9870825107653fd57dabb3540</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyNavistar">3cfa3ce9870825107653fd57dabb3540</sys_scope>
+            <sys_update_name>sys_ui_form_sections_169861a587c825107653fd57dabb35bd</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7e97a16587c825107653fd57dabb356e" extends="task" label="HelpDesk" max_length="40" name="x_492360_mynavis_0_helpdesk" type="collection"/>
+</database>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_492360_mynavis_0_legaldoc">x_492360_mynavis_0_legaldoc</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>LEGDOC</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-28 11:26:07</sys_created_on>
+        <sys_id>21f6e52587c825107653fd57dabb35bc</sys_id>
+        <sys_name>LEGDOC</sys_name>
+        <sys_package display_value="MyNavistar" source="x_492360_mynavis_0">3cfa3ce9870825107653fd57dabb3540</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyNavistar">3cfa3ce9870825107653fd57dabb3540</sys_scope>
+        <sys_update_name>sys_number_21f6e52587c825107653fd57dabb35bc</sys_update_name>
+    </sys_number>
+</record_update>
